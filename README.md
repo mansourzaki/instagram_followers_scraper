@@ -1,6 +1,6 @@
 # Instagram Followers Tool
 
-A lightweight Python **template** for fetching **your own Instagram followers** using an authenticated session.
+A lightweight Python **template** for fetching **your own Instagram followers (username,fullname)** using an authenticated session.
 
 This project is intended for **personal use, backups, or educational purposes**.
 
